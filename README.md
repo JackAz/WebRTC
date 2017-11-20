@@ -1,2 +1,2 @@
 # WebRTC
-A simple WebRTC application on Windows
+A simple WebRTC application for Windows
